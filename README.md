@@ -2,8 +2,8 @@
   Protótipo IC
 </h1>
 
-<h1 align="center" height="300">
-  <img src="app.gif">
+<h1 align="center" >
+  <img src="app.gif" height="300">
 </h1>
 
 ## Sobre
