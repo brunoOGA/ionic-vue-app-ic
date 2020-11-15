@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center" >
-  <img src="app.gif" height="300">
+  <img src="app.gif" height="700">
 </h1>
 
 ## Sobre
