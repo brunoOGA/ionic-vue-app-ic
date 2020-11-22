@@ -1,5 +1,5 @@
 <h1 align="center">
-  Protótipo IC
+  Protótipo IC - Ionic Vue
 </h1>
 
 <h1 align="center" >
